@@ -1,5 +1,8 @@
 package com.myStudy.etc;
 
+/**
+  전위 후위 관련 공부
+ */
 public class JHOper {
     public static void main(String[] args) {
         /*int a= 5;
