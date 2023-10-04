@@ -1,4 +1,9 @@
 package com.myStudy.esect;
+/**
+ 중앙 별 의 갯수를 입력받아서 다이아몬드 모양으로 만들기
+ */
+
+/
 
 import java.util.Scanner;
 
