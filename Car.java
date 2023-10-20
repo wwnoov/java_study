@@ -1,5 +1,7 @@
 package com.myStudy.myClass.exam02;
-
+/**
+ * 자바 클래스
+ * */
 public class Car {
     //필드생성
     String company = "현대자동차";

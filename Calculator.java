@@ -1,5 +1,7 @@
 package com.myStudy.myClass.exam02;
-
+/**
+ * 자바 클래스
+ * */
 public class Calculator {
     //리턴값이 없는 메소드 선언
     void powerOn() {

@@ -1,5 +1,7 @@
 package com.myStudy.myClass.exam02;
-
+/**
+ * 자바 클래스
+ * */
 public class CarExample {
     public static void main(String[] args) {
 

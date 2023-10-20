@@ -1,5 +1,7 @@
 package com.myStudy.myClass.exam02;
-
+/**
+ * 자바 클래스
+ * */
 public class CalculatorExample {
     public static void main(String[] args) {
         //Calculator 객체생성
