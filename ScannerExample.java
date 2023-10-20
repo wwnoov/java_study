@@ -1,7 +1,9 @@
 package com.myStudy.Scanner;
 
 import java.util.Scanner;
-
+/**
+ *  자바 스캐너
+ * */
 public class ScannerExample {
     public static void main(String[] args) {
 
