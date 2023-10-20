@@ -1,5 +1,8 @@
 package com.myStudy.Inheri.tire;
-
+/**
+ * 자바 상속
+ * 타이어 상속
+ * */
 public class CarExample {
     public static void main(String[] args) {
         Car myCar =new Car();
