@@ -1,7 +1,8 @@
 package com.myStudy.Char;
 /**
+ * 자바 Array
  * 배열 원하는 문자 읽기
- * */
+ */
 public class CharAtEx {
     public static void main(String[] args) {
         String ssn ="956241230123";

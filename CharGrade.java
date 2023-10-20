@@ -1,7 +1,7 @@
 package com.myStudy.Char;
 /**
- if문으로 학점 구하는 프로그램
- * */
+ * 자바 if문으로 학점 구하는 프로그램
+ */
 import java.util.Scanner;
 
 public class CharGrade {
