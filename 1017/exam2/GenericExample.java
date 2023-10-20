@@ -1,7 +1,11 @@
 package org.study.run.exam2;
-
+/**
+ * 제네릭 예제
+ * */
 public class GenericExample {
     public static void main(String[] args) {
+        
+        // 제네릭을 사용하여 문자열(String)을 저장할 수 있는 Product 생성
         Product<Tv,String> product1 =new Product<>();
 
         product1.setKind(new Tv());
