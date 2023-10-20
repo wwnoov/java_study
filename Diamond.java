@@ -1,5 +1,9 @@
 package com.myStudy.esect;
-
+/**
+ * 자바 제어문
+ * 별표 만들기.
+ */
+/
 public class Diamond {
     public static void main(String[] args) {
         // 상단

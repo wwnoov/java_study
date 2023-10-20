@@ -3,7 +3,8 @@ package com.myStudy.esect;
 import java.util.Scanner;
 
 /**
- 구구단 입력 프로그램
+ * 자바제어문
+ * 구구단 입력 프로그램
  */
 public class Dan {
 

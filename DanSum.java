@@ -1,6 +1,7 @@
 package com.myStudy.esect;
 
 /**
+ * 자바 제어문
  * 1~10단까지의 합계를 구하는 프로그램
  */
 public class DanSum {
