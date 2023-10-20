@@ -1,5 +1,7 @@
 package com.myStudy.Inheri;
-
+/**
+ * 자바 상속
+ * */
 public class Phone {
     
     //필드선언

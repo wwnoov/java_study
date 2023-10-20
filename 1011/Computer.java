@@ -1,5 +1,7 @@
 package com.myStudy.Inheri;
-
+/**
+ * 자바 상속
+ * */
 public class Computer extends Calculator{
 
     public double areCircle(double r){

@@ -1,5 +1,7 @@
 package com.myStudy.Inheri;
-
+/**
+ * 자바 상속
+ * */
 public class ComputerExample {
     public static void main(String[] args) {
         int r = 10;
