@@ -1,5 +1,7 @@
 package com.myStudy.myClass.exam01;
-
+/**
+ * 자바 클래스
+ * */
 public class KoreanExample {
     public static void main(String[] args) {
         //Korean 객체 생성
